@@ -1,0 +1,57 @@
+.each-password-item {
+  height: 150px;
+  width: 200px;
+  border-style: outset;
+  border-color: #94a3b8;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.profile-container {
+  height: 40px;
+  width: 40px;
+  border-radius: 20px;
+  border-width: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.mustard {
+  background-color: #f59e0b;
+}
+.green {
+  background-color: #10b981;
+}
+.orange {
+  background-color: #f97316;
+}
+.sky-blue {
+  background-color: #14b8a6;
+}
+.wine-red {
+  background-color: #b91c1c;
+}
+.profile-text {
+  color: #ffffff;
+}
+.username-password-container {
+  display: flex;
+  flex-direction: column;
+}
+.star-img {
+  height: 20px;
+  width: 120px;
+}
+.delete-btn {
+  height: 30px;
+  width: 30px;
+  border-width: 0px;
+  background-color: transparent;
+}
+.delete-img {
+  height: 20px;
+  width: 20px;
+}
